@@ -1,24 +1,14 @@
 {
-  "name": "nedb",
-  "version": "1.5.0",
-  "author": {
-    "name": "Louis Chatriot",
-    "email": "louis.chatriot@gmail.com"
-  },
-  "contributors": [
-    "Louis Chatriot"
-  ],
-  "description": "File-based embedded data store for node.js",
+  "name": "nedb-isotropy",
+  "version": "0.1.0",
+  "description": "Isotropy port of NeDB by Louis Chatriot. File-based embedded data store for node.js",
   "keywords": [
     "database",
     "datastore",
-    "embedded"
+    "embedded",
+    "nedb",
+    "isotropy"
   ],
-  "homepage": "https://github.com/louischatriot/nedb",
-  "repository": {
-    "type": "git",
-    "url": "git@github.com:louischatriot/nedb.git"
-  },
   "dependencies": {
     "async": "0.2.10",
     "binary-search-tree": "0.2.4",
