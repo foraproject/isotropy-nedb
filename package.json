@@ -1,5 +1,5 @@
 {
-  "name": "nedb-isotropy",
+  "name": "isotropy-nedb",
   "version": "0.1.1",
   "description": "Isotropy port of NeDB by Louis Chatriot. File-based embedded data store for node.js",
   "keywords": [
